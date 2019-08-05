@@ -1,1 +1,2 @@
-# Bookers1
+DMM WEBCAMPコンテンツ
+DMM WEBCAMPの学習コンテンツの課題です。
